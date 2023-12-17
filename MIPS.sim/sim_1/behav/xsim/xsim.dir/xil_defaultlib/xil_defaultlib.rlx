@@ -1,0 +1,20 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/shoba/Documents/MIPS/MIPS.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sim_1/new/testbench.v,1702788725,verilog,,,,testbench,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/adder.v,1702787488,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/aludec.v,,adder,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/aludec.v,1702786913,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/controller.v,,aludec,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/controller.v,1702786560,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/datapath.v,1702788024,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/dmem.v,,datapath,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/dmem.v,1702788801,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/flopr.v,,dmem,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/flopr.v,1702787643,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/imem.v,,flopr,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/imem.v,1702788846,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/maindec.v,,imem,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/maindec.v,1702786728,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/mips.v,,maindec,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/mips.v,1702786282,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/mux2.v,,mips,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/mux2.v,1702787685,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/regfile.v,,mux2,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/regfile.v,1702787906,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/s12.v,,regfile,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/s12.v,1702787549,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/signext.v,,sl2,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/signext.v,1702787589,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/top.v,,signext,,,,,,,,
+C:/Users/shoba/Documents/MIPS/MIPS.srcs/sources_1/new/top.v,1702788752,verilog,,C:/Users/shoba/Documents/MIPS/MIPS.srcs/sim_1/new/testbench.v,,top,,,,,,,,
